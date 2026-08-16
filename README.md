@@ -1,5 +1,4 @@
 # 📊 Social Media Analytics: SQL + GenAI Project
-Advanced SQL analysis of user interactions, influencer trends, and geographic engagement drivers to derive business growth insights.
 
 # 📌 Project Overview
 This project focuses on executing end-to-end relational data analysis on a synthetic social media database containing over 7,000 records. By pairing advanced SQL analytical queries with Generative AI prompt engineering, this repository demonstrates how to extract actionable business insights from user interactions, posting behavior, hashtag trends, and geographic engagement drivers.
